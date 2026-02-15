@@ -17,7 +17,7 @@
 2.  **上传文件**：
     *   将编译生成的 `round_damage.smx` 文件放入服务器的 `csgo/addons/sourcemod/plugins/` 目录中。
 3.  **加载插件**：
-    *   更换地图或在服务器控制台运行 `sm plugins reload round_damage`。
+    *   更换地图或在服务器控制台运行 `sm plugins reload round_damage.smx`。
 
 ## 配置说明
 
